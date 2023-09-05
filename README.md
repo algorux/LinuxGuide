@@ -39,7 +39,7 @@ The distributions are the result of some of this customizations and other deeper
 - Source based
 
 If you want a complete guide under the different linux distros on the market i suggest using this chart: 
-![chart](https://en.wikipedia.org/wiki/List_of_Linux_distributions#/media/File:Linux_Distribution_Timeline.svg)
+![chart](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 
 And again this guide will try to be as general as possible, but we will use one of the mos popular debian-based distros, Ubuntu
 
